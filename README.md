@@ -1,7 +1,5 @@
 # Object-counter-using-computer-vision
-![C_AdobeExpress](https://user-images.githubusercontent.com/68701684/222059712-cd3cf525-dc2e-41a0-ac02-2e912108160a.gif)
-![C_AdobeExpress](https://user-images.githubusercontent.com/68701684/222059754-b2934c3b-ab44-4c66-ae03-ca6635853507.gif)
-
+![C_AdobeExpress](https://user-images.githubusercontent.com/68701684/222060460-10241d11-423a-4859-934a-0305c04df5fe.gif)
 # Setup
 
 * Create a new environment with the python 3.8 of anaconda
